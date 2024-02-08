@@ -1,61 +1,61 @@
-### Privacy Policy
+**Privacy Policy:**
 
-We are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information when you use our services.
+We are committed to respecting your privacy and protecting your personal information. By using our website, you consent to the collection and use of your data as described in this Privacy Policy.
 
-#### Information Collection
+**1. Information Collection:**
 
-We may collect the following types of personal information:
+We may collect various types of information, including but not limited to:
+- UserRAM
+- UserAgent
+- Platform
+- HardwareConcurrency
+- MaxTouchPoints
+- Connection
+- AppName
+- ScreenWidth
+- ScreenHeight
+- OnlineStatus
+- TimeZone
+- DeviceType
+- ColorDepth
+- Location
+- BatteryLevel
+- ChargingStatus
+- dateTime
+- userIP
 
-- **User RAM:** RAM information of the device.
-- **User Agent:** User agent string of the browser.
-- **Platform:** Information about the operating system platform.
-- **Hardware Concurrency:** Number of logical processors available.
-- **Max Touch Points:** Maximum number of touch points supported.
-- **Connection:** Type of internet connection.
-- **App Name:** Name of the application.
-- **Screen Width and Height:** Dimensions of the screen.
-- **Online Status:** Whether the device is online or offline.
-- **Time Zone:** Time zone of the device.
-- **Device Type:** Type of device (touch or non-touch).
-- **Color Depth:** Depth of the color palette.
-- **Location:** Current location based on the browser.
-- **Battery Level:** Battery level of the device.
-- **Charging Status:** Whether the device is charging or not.
-- **Date and Time:** Date and time of data collection.
-- **User IP:** IP address of the user.
+This information is collected to improve the user experience and ensure the functionality of our website.
 
-#### Use of Information
+**2. Use of Information:**
 
-We do not use your personal information for promotional purposes or any other bad purposes. The information collected is used for the following purposes:
+We do not use your data for promotional purposes or any other malicious activities. The collected data is solely used for website optimization, security, and statistical analysis.
 
-- To provide and maintain our services.
-- To improve and personalize our services.
-- To analyze usage and trends.
-- To troubleshoot technical issues.
-- To comply with legal obligations.
+**3. Third-party Services:**
 
-#### Data Security
+We utilize third-party services, such as FreeVisitorCounters, to count visitors to our website. Their privacy policy governs the collection and use of data by these services. Please refer to their privacy policy for more information: [FreeVisitorCounters Privacy Policy](https://www.freevisitorcounters.com/home/privacy)
 
-We implement reasonable security measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction.
+**4. Data Security:**
 
-#### Contact Us
+We implement reasonable security measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction.
 
-If you have any questions or concerns about our Privacy Policy, please contact us at [contacttoadityaemail@gmail.com](mailto:contacttoadityaemail@gmail.com).
+**Terms and Conditions:**
 
-### Terms and Conditions
+By accessing and using our website, you agree to comply with the following terms and conditions:
 
-By using our services, you agree to the following Terms and Conditions:
+1. **User Conduct:**
+   - You agree to use our website for lawful purposes only and refrain from any activity that violates applicable laws or regulations.
+   - You are solely responsible for maintaining the confidentiality of your account information and for all activities that occur under your account.
 
-1. **Data Collection:** We collect certain personal information as outlined in our Privacy Policy. By using our services, you consent to the collection and use of this information.
+2. **Intellectual Property:**
+   - All content and materials available on our website, including but not limited to text, graphics, logos, images, and software, are the property of their respective owners and are protected by intellectual property laws.
 
-2. **No Promotion or Misuse:** We do not use your personal information for promotional purposes or any other bad purposes. Your data is collected solely for the purpose of improving our services and providing a better user experience.
+3. **Limitation of Liability:**
+   - We shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with your use of our website.
 
-3. **Data Usage:** Your personal information is used to provide and maintain our services, analyze usage and trends, troubleshoot technical issues, and comply with legal obligations.
+4. **Changes to Terms and Conditions:**
+   - We reserve the right to modify or revise these terms and conditions at any time without prior notice. Your continued use of our website after any such changes constitutes your acceptance of the new terms and conditions.
 
-4. **Data Security:** We implement reasonable security measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction.
+5. **Governing Law:**
+   - These terms and conditions shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law provisions.
 
-5. **Changes to Terms:** We reserve the right to update or modify these Terms and Conditions at any time without prior notice. Your continued use of our services after any changes indicates your acceptance of the updated Terms.
-
-6. **Contact Us:** If you have any questions or concerns about our Terms and Conditions, please contact us at contacttoadityaemail@gmail.com.
-
-By using our services, you acknowledge that you have read, understood, and agree to abide by these Terms and Conditions and our Privacy Policy.
+If you have any questions or concerns about our Privacy Policy or Terms and Conditions, please contact us at [contacttoadityaemail@gmail.com].
